@@ -1,4 +1,4 @@
-##⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ $$$
+## $$$
  <div>
   <a href="https://github.com/slolstrix">
   <img height="195em" src="https://github-readme-stats.vercel.app/api?username=slolstrix&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
