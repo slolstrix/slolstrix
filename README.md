@@ -8,7 +8,7 @@
   <img align="center" alt="Slols-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Slols-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Slols-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="right" alt="Slols-yoda" src="https://i.pinimg.com/originals/86/bc/c0/86bcc0f13c4a13ced13c962226153f92.gif">
+  <img align="right" alt="Slols-yoda" src="https://64.media.tumblr.com/7a419d69805c5faa8f417065516869ef/082315586358b719-68/s540x810/ede9f7f423cb77ed40f801996bd00a0ae8405b01.gif">
   
 </div>
   
