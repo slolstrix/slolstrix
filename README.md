@@ -2,7 +2,7 @@
  <div>
   <a href="https://github.com/slolstrix">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=slolstrix&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slolstrix&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slolstrix&layout=compact&langs_count=7&theme=midnight-purple"/>
   <img align="left" alt="Slols-yoda" src=https://i.pinimg.com/originals/ca/15/e3/ca15e394459d9f64e16d80c494405e5b.gif>
 </div>
  
