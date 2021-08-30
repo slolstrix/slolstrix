@@ -8,7 +8,7 @@
   <img align="center" alt="Slols-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Slols-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Slols-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="right" alt="Slols-yoda" src="http://images6.fanpop.com/image/photos/43600000/The-Child-in-The-Mandalorian-Chapter-10-The-Passenger-the-mandalorian-43625462-540-500.gif">
+  <img align="right" alt="Slols-yoda" src="https://64.media.tumblr.com/1753b27ff360bd965af2fcef72ef3977/3684e64805fca2ba-ed/s540x810/45f04bfd7b4a505f8587b84e51ac5230f81db639.gifv">
   
 </div>
   
